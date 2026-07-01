@@ -39,3 +39,4 @@ print("=== SISTEMA DE RESERVAS DE BIBLIOTECA ===")
 nombre, carrera = registrar_usuario()
 libro, dias = registrar_libro()
 generar_resumen(nombre, carrera, libro, dias)
+#ejercicio modificado
