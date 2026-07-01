@@ -17,3 +17,4 @@ for temperatura in temperaturas:
 promedio = suma / len(temperaturas)
 
 print(promedio)
+# Version mejorada del ejercicio 1
