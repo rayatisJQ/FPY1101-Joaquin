@@ -91,3 +91,6 @@ while opcion != 5:
 
     except ValueError:
         print("Debe ingresar una opcion valida")
+
+
+#ejercicio modificado
